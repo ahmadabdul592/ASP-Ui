@@ -12,7 +12,7 @@
 1. Clone the repository
 
 ```bash
-git clone git@github.com:Socioo/Schedule-portal.git
+git clone git@github.com:Socioo/Schedule-ui.git
 ```
 
 2. Install all UI Client dependencies
