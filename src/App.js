@@ -1,5 +1,5 @@
-import Login from './pages/Login';
-// import Authenticated from './pages/Authenticated';
+//import Login from './pages/Login';
+import Authenticated from './pages/Authenticated';
 
 // import {
 //   Routes,
@@ -11,8 +11,8 @@ import 'antd/dist/antd.min.css';
 function App() {
   return (
     <div className="App">
-      {/* <Authenticated /> */}
-      <Login />
+      <Authenticated /> 
+      {/* <Login />*/}
     </div>
   );
 }
